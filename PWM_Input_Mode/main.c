@@ -1,6 +1,6 @@
 #include "stm32f4xx.h"                  // Device header
 
-/*Measured the distnce from an ultrasonic sensor using input capture method.
+/*Measured the distance from an ultrasonic sensor using input capture method.
 Trig Pin: PD13
 Echo Pin: PC6
 */
